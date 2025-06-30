@@ -4,7 +4,7 @@ A professional website for the Advanced Forestry Systems Lab at Oregon State Uni
 
 ## 🌐 Live Website
 
-The website is deployed and accessible at: **https://zkutgone.manus.space**
+The website is deployed and accessible at: **https://test**
 
 ## 📋 Project Overview
 
